@@ -1,3 +1,5 @@
+![Johan](img/github-header-image.png)
+
 ## Hi there 👋
 
 <!--

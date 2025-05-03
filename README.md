@@ -1,6 +1,6 @@
 ![Johan](img/github-header-image.png)
 
-<h2 align="left">Building sleek web & mobile experiences that just work—clean code, smooth UI, happy users.</h2>
+##### Building sleek web & mobile experiences that just work—clean code, smooth UI, happy users.
 
 ###
 
